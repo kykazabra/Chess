@@ -1,2 +1,2 @@
 # Chess
-Simple chess in Python
+Базовые текстовые шахматы на Python
